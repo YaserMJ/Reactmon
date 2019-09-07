@@ -4,10 +4,13 @@
   "private": true,
   "dependencies": {
     "@fullpage/react-fullpage": "^0.1.16",
+    "@material-ui/core": "^4.4.0",
     "bootstrap": "^4.3.1",
     "pokedex-promise-v2": "^3.2.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-poke-sprites": "0.0.8",
+    "react-pokemon-gif": "^1.0.2",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.1"
   },

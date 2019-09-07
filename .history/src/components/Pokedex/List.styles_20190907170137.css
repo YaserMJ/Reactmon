@@ -1,0 +1,57 @@
+.pk {
+    width: 100px;
+    height: 100px;
+}
+
+.openButton {
+    float : center;
+    margin : 0 auto;
+
+}
+
+.listBzk {
+    background : #ffcb05;
+}
+
+
+ ul {
+  list-style-type: none;
+ }
+
+
+.id {
+    color : #ffcb05;
+    font-family: 'Fruktur', cursive;
+    border : 1px solid black;
+
+}
+
+.name {
+font-family: 'Monoton', cursive;
+
+}
+
+.type {
+    font-family: 'BioRhyme', serif;
+
+}
+
+.ab {
+    font-family: 'Black Ops One', cursive;
+
+}
+
+#tv {
+  position: relative;
+  width: 350px;
+  height: 550px;
+  background: white;
+  border-radius: 0% 0% 0% 0% / 0% 0% 0% 0% ;
+  color: white;
+  box-shadow: 20px 20px rgba(0,0,0,.15);
+  transition: all .4s ease;
+}
+#tv:hover {
+  border-radius: 0% 0% 50% 50% / 0% 0% 5% 5% ;
+  box-shadow: 10px 10px rgba(0,0,0,.25);
+}

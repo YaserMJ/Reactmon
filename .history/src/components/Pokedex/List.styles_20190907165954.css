@@ -1,0 +1,41 @@
+.pk {
+    width: 100px;
+    height: 100px;
+}
+
+.openButton {
+    float : center;
+    margin : 0 auto;
+
+}
+
+.listBzk {
+    background : #ffcb05;
+}
+
+
+ ul {
+  list-style-type: none;
+ }
+
+
+.id {
+    color : #ffcb05;
+    font-family: 'Fruktur', cursive;
+
+}
+
+.name {
+font-family: 'Monoton', cursive;
+
+}
+
+.type {
+    font-family: 'BioRhyme', serif;
+
+}
+
+.ab {
+    font-family: 'Black Ops One', cursive;
+
+}

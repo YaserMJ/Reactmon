@@ -1,0 +1,88 @@
+.bk {
+    background-image: url("https://wallpapercave.com/wp/wp2930095.jpg");
+    background-position:  top;
+
+}
+
+.pkLogo {
+    -webkit-transform:rotate(110deg);
+    -moz-transform: rotate(110deg);
+    -ms-transform: rotate(110deg);
+    -o-transform: rotate(110deg);
+    transform: rotate(-30deg);
+    width: 800px;
+    height: 250px;
+    float: left;
+}
+
+.AboutColor {
+    background: #ffcb05;
+}
+
+body{
+    background: #eee;
+}
+span{
+    font-size:15px;
+}
+a{
+  text-decoration:none; 
+  color: #FFFF;
+  border-bottom:2px solid #0062cc;
+}
+.box{
+    padding:60px 0px;
+}
+
+.box-part{
+    background:#2a75bb;
+    border-radius:0;
+    padding:60px 10px;
+    margin:30px 0px;
+}
+.text{
+    margin:20px 0px;
+}
+
+.fa{
+     color:#FFFF;
+}
+
+.blocks {
+    width: 200px;
+    height: 200px;
+}
+
+.bkb{
+    background: #0062cc
+}
+
+.words {
+    font-family: 'Bungee', cursive;
+
+}
+
+.words2{
+font-family: 'BioRhyme', serif;
+
+}
+.avatar {
+  vertical-align: middle;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+ 
+}
+ul > li {
+    display: inline-block;
+    /* You can also add some margins here to make it look prettier */
+    zoom:1;
+    *display:inline;
+    /* this fix is needed for IE7- */
+}
+
+.logos {
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+}
