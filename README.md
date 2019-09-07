@@ -36,7 +36,7 @@ A React & Poke API based prototype that allows users to search for specific Poke
 
 
 
-live version here : 
+live version here(up to version2 of the project) : https://poke-react-project.herokuapp.com/ 
 ___
 
 ###### This project is submitted in partial fulfillment of the participation requirements of the Coding Academy by Orange™.
